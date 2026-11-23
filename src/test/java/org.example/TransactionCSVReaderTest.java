@@ -13,7 +13,7 @@ class TransactionCSVReaderTest {
     @TempDir
     Path tempDir;
 
-    // Тест читання CSV
+    // Тест читання CSV test
     @Test
     public void testReadCSV() throws Exception {
 
